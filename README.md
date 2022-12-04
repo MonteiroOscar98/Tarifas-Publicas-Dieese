@@ -19,7 +19,7 @@ Criação uma um DataFrame extraindo dados através de WebScraping no [site do D
 <b>Passo 5:</b> Analisando os dados e criando visualizações.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Tarifas Públicas - Dieese]([https://www.linkedin.com/in/oscarmonteiro98/](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/Tarifas_Publicas_DIEESE.ipynb))
+<b>Jupyter Notebook:</b> [Tarifas Públicas - Dieese](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/Tarifas_Publicas_DIEESE.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
