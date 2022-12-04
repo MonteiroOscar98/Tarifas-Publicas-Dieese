@@ -1,8 +1,7 @@
 
 # WebScraping Tarifas Públicas - Município de São Paulo 
-Criação uma um DataFrame extraindo dados através de WebScraping no site do Dieese e realização de análise dos dados.
+Criação uma um DataFrame extraindo dados através de WebScraping no [site do Dieese](https://www.dieese.org.br/analiseicv/tarifasPublicas.html) e realização de análise dos dados.
 <br>
-[Site fonte Dieese](https://www.dieese.org.br/analiseicv/tarifasPublicas.html)
 <br>
 <b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Requests, BeautifulSoup, json.
 <br>
