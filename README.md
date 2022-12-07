@@ -27,4 +27,12 @@ Criação uma um DataFrame extraindo dados através de WebScraping no [site do D
 <br>
 Resultados:
 <br>
-![Evolução](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/README_files/1.png)
+<br>
+![1](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/README_files/1.png)
+<br>
+<br>
+![2](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/README_files/2.png)
+<br>
+<br>
+![3](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/README_files/3.png)
+
