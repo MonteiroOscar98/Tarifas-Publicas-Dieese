@@ -24,4 +24,7 @@ Criação uma um DataFrame extraindo dados através de WebScraping no [site do D
 <b>Autor:</b> Oscar Monteiro
 <br>
 <b>LinkedIn:</b> [Oscar Monteiro](https://www.linkedin.com/in/oscarmonteiro98/)
-
+<br>
+Resultados:
+<br>
+![Evolução](https://github.com/MonteiroOscar98/Tarifas-Publicas-SP-Dieese/blob/main/README_files/1.png)
